@@ -25,6 +25,6 @@ ver la disponibilidad de horarios y auditar cada acción.
 - Backlog y tablero: https://facundorainaudi93.atlassian.net/jira/software/projects/TUR/boards/1/backlog?atlOrigin=eyJpIjoiMGQyN2RjNWIzZGZmNGZlNGJhYjE5NzQ5OTNhZWMyNTMiLCJwIjoiaiJ9
 
 ## Tecnologías
-Lenguaje: C#
-Framework: .NET, Jest y SuperTest
-Base de datos: SQL
+- Lenguaje: C#
+- Framework: .NET, Jest y SuperTest
+- Base de datos: SQL
