@@ -9,10 +9,10 @@ ver la disponibilidad de horarios y auditar cada acción.
 ## Equipo
 | Rol | Integrante |
 | --- | --- |
-| Scrum Master | [Nombre] |
-| Dev | [Nombre] |
-| QA | [Nombre] |
-| Doc | [Nombre] |
+| Scrum Master | Facundo Rainaudi |
+| Dev | Laureano Cortes, Ignacio Caminos y Facundo Rainaudi |
+| QA | Ignacio Caminos |
+| Doc | Laureano Cortes |
 
 ## Funcionalidades
 - Registrar y listar turnos por área
@@ -22,17 +22,9 @@ ver la disponibilidad de horarios y auditar cada acción.
 - Auditoría (fecha, usuario, acción)
 
 ## Documentación
-- Backlog y tablero: [enlace a Jira]
-- Diseño conceptual: /docs (casos de uso, wireframes, modelo de datos)
+- Backlog y tablero: https://facundorainaudi93.atlassian.net/jira/software/projects/TUR/boards/1/backlog?atlOrigin=eyJpIjoiMGQyN2RjNWIzZGZmNGZlNGJhYjE5NzQ5OTNhZWMyNTMiLCJwIjoiaiJ9
 
 ## Tecnologías
-[lenguaje, framework, base de datos]
-
-## Cómo ejecutarlo
-[pasos de instalación y arranque]
-
-## Estructura del repositorio
-/docs   documentación y diagramas
-/db     scripts SQL
-/src    código fuente
-/tests  casos de prueba
+Lenguaje: C#
+Framework: .NET, Jest y SuperTest
+Base de datos: SQL
